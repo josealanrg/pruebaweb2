@@ -1,0 +1,29 @@
+commit 8cb4f7db46db60e9cb412d9da5d267220a11f07c
+Author: Jose Alan <jose_cheypi@hotmail.com>
+Date:   Thu Jun 25 13:28:21 2015 -0600
+
+    mensaje de prueba
+
+commit ab7040edbe7c90c59f652ceec792c53136357e0b
+Author: Jose Alan <jose_cheypi@hotmail.com>
+Date:   Wed Jun 24 14:20:59 2015 -0600
+
+    se agregó una imagen:
+
+commit c55bd4e73e6632e8d3229881d4ec5a1e9c90f0ba
+Author: Jose Alan <jose_cheypi@hotmail.com>
+Date:   Wed Jun 24 14:15:00 2015 -0600
+
+    cambio de fondo a gris
+
+commit 689477fec3efe98066ecff3598ea30d34fdedc27
+Author: Jose Alan <jose_cheypi@hotmail.com>
+Date:   Wed Jun 24 14:03:56 2015 -0600
+
+    SEGUNDO COMMIT
+
+commit 6cfea03a735f2378ec3c67982110d877e015a101
+Author: Jose Alan <jose_cheypi@hotmail.com>
+Date:   Wed Jun 24 13:50:15 2015 -0600
+
+    PRIMER COMMIT
